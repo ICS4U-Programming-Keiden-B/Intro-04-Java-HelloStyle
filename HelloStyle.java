@@ -1,4 +1,9 @@
 /**
+ * Info about this package doing something for package-info.java file.
+ */
+package HelloStyle;
+
+/**
 * What I plan to do next year and how I feel about it.
 *
 * @author  Keiden B
